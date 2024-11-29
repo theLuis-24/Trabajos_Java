@@ -1,0 +1,33 @@
+SDLC de Anemitor
+
+análisis:
+
+Esta aplicación busca el ayudar a las personas a tanto definir si estos poseen la enfermedad de la anemia, junto a definir que nivel de anemia tienen
+
+-Contando con la ayuda de una IA, esta gracias a un algoritmo comenzara a definir que tan grave es la enfermedad dependiendo de la descripción que maneje el usuario.
+
+-La IA creara un documento opcional, el cual servirá para ser mandado a un especialista para así poder agendarse una cita y ver un tratamiento.
+
+-Si no se quiere hacer el documento, anemitor mostrara distintas opciones para tratar esta enfermedad, pero igualmente recomendado encarecidamente al usuario el que valla con un doctor lo mas antes posible mas si tiene en cuenta el nivel de la enfermedad.
+
+
+Diseño:
+
+la aplicación contara con una interfaz tanto amigable para el usuario como fácil de usar, esto usando el lenguaje de JAVA, primero contara con un LOGIN para así registrar al usuario y así tener registrado al mismo en la base de datos si no que también para facilitar la obtención de datos para la creación del documento PDF
+
+también contara con una activity la cual al igual que CHAT GPT o simsimi se podrá interactuar con la IA.
+
+contara también con 2 botones principales, uno siendo el botón de chat para hablar con la IA y el otro siendo para la creación y ajustes del documento antes de su creación.
+
+Implementación:
+
+así como antes se menciono se usara el lenguaje de JAVA para la creación de la aplicación, también se usara una base de datos local para guardar los datos del usuario y que la aplicación la tenga mas fácil para crear el documento.
+
+
+Pruebas:
+
+se harán pruebas para verificar que tanto el loggeo de usuario tanto la IA funcionen adecuadamente, principalmente la IA así para que esta de correctamente sus resultados, todo esto con la ayuda de un especializado en el tema para así verificar que la información dada sea correcta y lo mas exacta posible.
+
+Mantenimiento:
+
+se mantendrá en un mantenimiento constante la aplicación para los futuros servidores, también para que la IA se mantenga en un constante aprendizaje y así se mantenga al día con todo lo relacionado a la anemia y los tratamientos que salgan para asi facilitar mas el trabajo futuro de los especialistas.
